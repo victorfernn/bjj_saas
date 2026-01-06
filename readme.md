@@ -1,7 +1,38 @@
-Bjj Saas
+# BJJ SaaS
 
-Este projeto tem como objetivo criar um saas completo para as academias de jiu-jitsu terem uma melhor gestão.
+Projeto SaaS para academias de Jiu-Jitsu: gerenciar alunos e treinos (MVP).
 
-Como clonar o projeto:
-1. Entre no repositório de copie o link https.
-2. Com o git instalado na máquina rode o comando: "git clone" + link https.
+## 🚀 Funcionalidades atuais
+- Login fake com credenciais fixas
+- Proteção de páginas privadas
+- Estrutura inicial das telas
+
+## 📌 Tecnologias
+- HTML
+- CSS
+- JavaScript (DOM + localStorage)
+
+## 📁 Estrutura de arquivos
+bjj_saas/
+ ├─ index.html
+ ├─ dashboard.html
+ ├─ alunos.html
+ ├─ treinos.html
+ ├─ css/style.css
+ └─ js/auth.js
+
+
+## 🔧 Como usar
+1. Clone o repositório:
+git clone https://github.com/victorfernn/bjj_saas.git
+
+2. Abra `index.html` no navegador.
+3. Use o email `admin@jiujitsu.com` e senha `123456`.
+
+## 📆 Roadmap
+- [ ] Cadastro de alunos
+- [ ] Registro de treinos
+- [ ] Dashboard com métricas
+
+## 📝 Sobre mim
+Iniciante em Front-End 👨‍💻 | Estudando JavaScript e praticando projetos reais.
